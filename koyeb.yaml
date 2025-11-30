@@ -1,3 +1,4 @@
 name: goalbot
 type: worker
-run: python main.py
+run:
+  command: python main.py
