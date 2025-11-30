@@ -1,4 +1,0 @@
-name: goalbot
-type: worker
-run:
-  command: python main.py
